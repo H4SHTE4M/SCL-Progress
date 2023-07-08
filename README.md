@@ -1,4 +1,4 @@
-# Progress
+# Security Coding Lab Progress
 本仓库用于追踪大家的进度，同时也可以帮助大家学习Git的使用。
 
 # 使用说明
