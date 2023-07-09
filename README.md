@@ -19,6 +19,11 @@
 # thebeastofwar
 
 # moonflowersl
+- CS110L:
+  - week1 finished!
+- CS106L:
+- TODO:
+  - CS110L week2
 
 # SabYic
 
