@@ -13,6 +13,7 @@
 
 - NJU OS: Operating System Design and Implementation
   - 7.9 还没开始看
+  - 7.10 计划开始看
 
 # icfh-13
 
