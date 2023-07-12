@@ -36,3 +36,26 @@
 # Detectiveyw
 
 # shuiyc
+
+
+# Chinazhuzi
+-学习PHP 弱类型语言
+-<?php
+show_source(__FILE__);
+include("config.php");
+$a=@$_GET['a'];
+$b=@$_GET['b'];
+if($a==0 and $a){
+    echo $flag1;
+}
+if(is_numeric($b)){
+    exit();
+}
+if($b>1234){
+    echo $flag2;
+}
+?>
+-有两种比较方式 == 和===
+-第一种会发生类型转化，比较转化后的结果是否相等，后者先比较类型是否一样。
+-字符串如果数字开头则转成数字，字母开头会转换成0
+-get方式传入a=c b=1235c
