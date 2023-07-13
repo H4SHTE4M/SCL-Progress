@@ -20,10 +20,10 @@
 
 # moonflowersl
 - CS110L:
-  - week1 finished!
+  - week3 finished!
 - CS106L:
 - TODO:
-  - CS110L week2
+  - CS110L project1 deet
 
 # SabYic
 
