@@ -39,12 +39,11 @@
 ##### Work Record:
 
 - 7.14：看了两节HTML和CSS的课，有点无聊就把这部分跳过去了
-
 - 7.15：看了JS的课，完成了JS DOM的案例
 
   - DOM案例：本质上就是如何定位DOM节点
 
-    
+- 7.17：完成JS事件监听的案例，看了Vue的相关课程
 
 
 # thebeastofwar
