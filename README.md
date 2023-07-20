@@ -36,3 +36,10 @@
 # Detectiveyw
 
 # shuiyc
+
+# lmarch2
+- CS50P Introduction to Programming with Python
+- 感觉把coding lab当成了一个学习新语言的机会了，并没有搞什么复杂的project，更多的是抱着学习pyhton
+  的态度去看一些课，做一些homework来巩固知识
+- 贴一个学习过程中做的一些丑陋的[笔记](https://www.notion.so/Python-eaa75da8d05c4f7dbed9e780dd1946bf?pvs=4)
+- 一些简单的lab放在我[仓库](https://github.com/lmarch2/CS50P)了
